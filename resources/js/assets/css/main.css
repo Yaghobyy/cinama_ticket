@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'shabnam';
+    src: url('../fonts/Shabnam.ttf');
+}
+
+@font-face {
+    font-family: 'shabnam-md';
+    src: url('../fonts/Shabnam-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'shabnam-bold';
+    src: url('../fonts/Shabnam-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'vazir';
+    src: url('../fonts/Vazir.ttf');
+}
+
+
+
+body{
+    font-family: 'shabnam' !important;
+    direction: rtl;
+}
+
+
